@@ -1,0 +1,38 @@
+{
+    "theme_color": "#19191A",
+    "background_color": "#19191A",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "orientation": "portrait",
+    "name": "BudgetCanvas - Smart Finance Manager",
+    "short_name": "BudgetCanvas",
+    "description": "BudgetCanvas is a smart and intuitive app that helps you take control of your finances by simplifying budget allocation and expense tracking. With BudgetCanvas, you can easily set budgets for different categories, track your transactions, and receive timely notifications to stay on top of your spending. Say goodbye to financial stress and hello to better money management with BudgetCanvas.",
+    "icons": [
+        {
+            "src": "icons/icon-128x128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
