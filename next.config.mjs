@@ -1,3 +1,4 @@
+// next.config.mjs
 /** @type {import('next').NextConfig} */
 import withSerwistInit from '@serwist/next';
       
